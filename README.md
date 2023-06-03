@@ -12,7 +12,7 @@ Currently improving knowledge in web development field. I've been working on sev
 - 📫  You can contact me at [wongjessica124@gmail.com](mailto:wongjessica124@gmail.com)
 - 🌱  I'm learning JavaScript, Golang, MongoDB, Docker
 - ⚡  I like to code and constantly practicing
-- 👩🏻‍💻  I'm currently working on my portfolio, stay tuned
+- 👩🏻‍💻  Working on my portfolio
 
 ### Languages and Tools
 
@@ -37,7 +37,7 @@ Currently improving knowledge in web development field. I've been working on sev
 
 
 <div align="center">
-  <a href="https://github.com/iam-jessicawong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-jessicawong&langs_count=5&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&border_radius=15" alt="Top Languages" /></a> 
-  <a href="http://www.github.com/iam-jessicawong"><img src="https://github-readme-stats.vercel.app/api?username=iam-jessicawong&show_icons=true&hide=&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" alt="iam-jessicawong's GitHub stats" /></a>
+  <a href="https://github.com/iam-jessicawong"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-jessicawong&langs_count=5&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&border_radius=15" alt="Top Languages" /></a> 
+  &nbsp&nbsp&nbsp<a href="http://www.github.com/iam-jessicawong"><img src="https://github-readme-stats.vercel.app/api?username=iam-jessicawong&show_icons=true&hide=&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" alt="iam-jessicawong's GitHub stats" /></a>
 
 </div>
